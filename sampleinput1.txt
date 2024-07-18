@@ -1,0 +1,4 @@
+schedule shipmentA 1100 60
+schedule shipmentB 5400 300
+schedule shipmentC 2000 120
+run 2400
